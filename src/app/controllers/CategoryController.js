@@ -9,7 +9,7 @@ class CategoryController {
 
   async store(request, response) {
     const { name } = request.body;
-    const nameExists = CategoriesRepository.findByName(name);
+    const nameExists = await CategoriesRepository.findByName(name);
 
     if (!name) {
       return response.status(400).json({ error: 'Name is required' });
