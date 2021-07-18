@@ -11,10 +11,33 @@
     <h2>My Contacts - Rest API<h2>
 </div>
 
----
+<p align="center">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/victorguirra/mycontacts">
+
+<a href="https://github.com/victorguirra/mycontacts/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/victorguirra/mycontacts">
+</a>
+
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/victorguirra/mycontacts">
+
+<a href="https://github.com/victorguirra/mycontacts/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/victorguirra/mycontacts">
+</a>
+</p>
+
 
 ## About 📚
 
 This project deals with an API developed for an application that will store contacts and the categories of these contacts.
 
 A REST Api was developed where it is possible to list, register, update and delete both contacts and categories for these contacts.
+
+## Technologies 🚀
+
+- Node JS
+- Docker
+- Postgres
+- Express
+- Express-async-erros
+- ESLint
+- Nodemon
