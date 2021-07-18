@@ -7,9 +7,7 @@
     <img src="https://www.mundodocker.com.br/wp-content/uploads/2015/06/docker_facebook_share.png" width="170">
 </div>
 
-<div align="center">
-    <h2>My Contacts - Rest API<h2>
-</div>
+<h2 align="center">My Contacts - Rest API<h2>
 
 <p align="center">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/victorguirra/mycontacts">
