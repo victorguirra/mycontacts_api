@@ -10,3 +10,11 @@
 <div align="center">
     <h2>My Contacts - Rest API<h2>
 </div>
+
+---
+
+## About 📚
+
+This project deals with an API developed for an application that will store contacts and the categories of these contacts.
+
+A REST Api was developed where it is possible to list, register, update and delete both contacts and categories for these contacts.
