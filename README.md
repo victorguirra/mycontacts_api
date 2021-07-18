@@ -7,11 +7,6 @@
     <img src="https://www.mundodocker.com.br/wp-content/uploads/2015/06/docker_facebook_share.png" width="170">
 </div>
 
-## Tools
-
-- Express
-- Express-async-errors
-- Nodemon
-- Eslint
-- Docker
-- Postgres
+<div align="center">
+    <h2>My Contacts - Rest API<h2>
+</div>
