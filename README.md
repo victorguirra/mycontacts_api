@@ -36,7 +36,7 @@ A REST Api was developed where it is possible to list, register, update and dele
 - Docker
 - Postgres
 - Express
-- Express-async-erros
+- Express-async-errors
 - ESLint
 - Nodemon
 
