@@ -44,6 +44,14 @@ class CategoryController {
 
     return response.status(200).json(category);
   }
+
+  async delete(request, response) {
+    const { id } = request.params;
+
+    await CategoriesRepository.delete(id);
+
+    return response.sendStatus(204);
+  }
 }
 
 module.exports = new CategoryController();

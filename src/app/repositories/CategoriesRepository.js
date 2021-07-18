@@ -35,6 +35,11 @@ class CategoriesRepository {
     `, [id, name]);
     return row;
   }
+
+  async delete(id) {
+    const deletOp = await db.query('DELETE FROM categories WHERE id = $1', [id]);
+    return deletOp;
+  }
 }
 
 module.exports = new CategoriesRepository();
