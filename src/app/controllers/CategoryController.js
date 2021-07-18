@@ -35,6 +35,15 @@ class CategoryController {
 
     response.json(category);
   }
+
+  async update(request, response) {
+    const { id } = request.params;
+    const { name } = request.body;
+
+    const category = await CategoriesRepository.update(id, name);
+
+    return response.status(200).json(category);
+  }
 }
 
 module.exports = new CategoryController();
