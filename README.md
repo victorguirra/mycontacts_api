@@ -2,17 +2,11 @@
     <img src="./mycontacts_logo.svg">
 </div>
 
-<h1 align="center">Rest API for My Contacts App</h1>
+<h3 align="center">Rest API for My Contacts App</h3>
 
 
 <!-- <h2 align="center">My Contacts - Rest API<h2> -->
 
-
-<div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="80">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"width="80">
-    <img src="https://www.mundodocker.com.br/wp-content/uploads/2015/06/docker_facebook_share.png" width="80">
-</div>
 
 <p align="center">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/victorguirra/mycontacts">
@@ -28,6 +22,12 @@
 </a>
 </p>
 
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"width="80">
+    <img src="https://www.mundodocker.com.br/wp-content/uploads/2015/06/docker_facebook_share.png" width="80">
+</div>
 
 ## About 📚
 
