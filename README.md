@@ -4,9 +4,7 @@
 
 <h3 align="center">Rest API for My Contacts App</h3>
 
-
-<!-- <h2 align="center">My Contacts - Rest API<h2> -->
-
+---
 
 <p align="center">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/victorguirra/mycontacts">
