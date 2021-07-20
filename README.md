@@ -2,6 +2,8 @@
     <img src="./mycontacts_logo.svg">
 </div>
 
+<h1 align="center">Rest API for My Contacts App</h1>
+
 
 <!-- <h2 align="center">My Contacts - Rest API<h2> -->
 
